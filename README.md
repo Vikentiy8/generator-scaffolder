@@ -274,7 +274,7 @@ Your `config.json` should be re-configure to follow this structure:
 ```
 **NOTE**: all paths (`src/dest`) are resolved to to your `src` and `dest` folders configured in **Baseline**, so you don't need to specify `src/` in each pathname.
 
-#### Templates
+#### Templates.
 ```
 "templates": {
     "src": "views",
